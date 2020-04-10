@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/TankShooter2D/static/css/main.9dfdfd61.chunk.css",
-    "main.js": "/TankShooter2D/static/js/main.3c3fab55.chunk.js",
-    "main.js.map": "/TankShooter2D/static/js/main.3c3fab55.chunk.js.map",
-    "runtime-main.js": "/TankShooter2D/static/js/runtime-main.ea9fbbac.js",
-    "runtime-main.js.map": "/TankShooter2D/static/js/runtime-main.ea9fbbac.js.map",
-    "static/js/2.cb15c4ea.chunk.js": "/TankShooter2D/static/js/2.cb15c4ea.chunk.js",
-    "static/js/2.cb15c4ea.chunk.js.map": "/TankShooter2D/static/js/2.cb15c4ea.chunk.js.map",
-    "index.html": "/TankShooter2D/index.html",
-    "precache-manifest.d1f553a98d5be78b593f5b68583b5224.js": "/TankShooter2D/precache-manifest.d1f553a98d5be78b593f5b68583b5224.js",
-    "service-worker.js": "/TankShooter2D/service-worker.js",
-    "static/css/main.9dfdfd61.chunk.css.map": "/TankShooter2D/static/css/main.9dfdfd61.chunk.css.map",
-    "static/js/2.cb15c4ea.chunk.js.LICENSE.txt": "/TankShooter2D/static/js/2.cb15c4ea.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.9dfdfd61.chunk.css",
+    "main.js": "/static/js/main.c6bbbfbd.chunk.js",
+    "main.js.map": "/static/js/main.c6bbbfbd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2f928ac5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2f928ac5.js.map",
+    "static/js/2.18902fe8.chunk.js": "/static/js/2.18902fe8.chunk.js",
+    "static/js/2.18902fe8.chunk.js.map": "/static/js/2.18902fe8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1ff84eff282c82bc5ff221f85c799cb5.js": "/precache-manifest.1ff84eff282c82bc5ff221f85c799cb5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9dfdfd61.chunk.css.map": "/static/css/main.9dfdfd61.chunk.css.map",
+    "static/js/2.18902fe8.chunk.js.LICENSE.txt": "/static/js/2.18902fe8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea9fbbac.js",
-    "static/js/2.cb15c4ea.chunk.js",
+    "static/js/runtime-main.2f928ac5.js",
+    "static/js/2.18902fe8.chunk.js",
     "static/css/main.9dfdfd61.chunk.css",
-    "static/js/main.3c3fab55.chunk.js"
+    "static/js/main.c6bbbfbd.chunk.js"
   ]
 }
