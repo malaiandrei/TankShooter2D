@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dfa92a1025196340dc08cbf64e40538d",
+    "revision": "ed994c9a68c488decfcf9dd8b8d16a8d",
     "url": "/TankShooter2D/index.html"
   },
   {
-    "revision": "26e9fe73fca783d03551",
+    "revision": "aa8af835a3a011b41855",
     "url": "/TankShooter2D/static/css/main.9dfdfd61.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TankShooter2D/static/js/2.cb15c4ea.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "26e9fe73fca783d03551",
-    "url": "/TankShooter2D/static/js/main.3ec5bafe.chunk.js"
+    "revision": "aa8af835a3a011b41855",
+    "url": "/TankShooter2D/static/js/main.3c3fab55.chunk.js"
   },
   {
     "revision": "1ec69244b48f66f77315",

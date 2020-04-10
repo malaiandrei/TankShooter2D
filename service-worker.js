@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TankShooter2D/precache-manifest.fd5e0571cf1a8f8481ec38bf1b9fd00b.js"
+  "/TankShooter2D/precache-manifest.d1f553a98d5be78b593f5b68583b5224.js"
 );
 
 self.addEventListener('message', (event) => {
